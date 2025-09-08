@@ -1,12 +1,21 @@
 body {
   background-color: #CBF0F5 !important;
 }
+
+h3 {
+  text-align: center;
+}
+.project {
+  width: 80%;
+  margin: 0 auto;
+}
 .intro {
   text-align: center;
 }
 .generator {
   width: 40%;
   height: 40%;
+  margin: 20px;
 }
 .circle {
   margin-left: 30px ;
