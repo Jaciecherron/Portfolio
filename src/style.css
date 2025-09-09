@@ -9,6 +9,24 @@ h3 {
   width: 80%;
   margin: 0 auto;
 }
+
+.button-link {
+  background-color: peachpuff;
+  border-radius: 5px;
+  border-color: rgb(40, 147, 166);
+  box-shadow: 10px 10px rgba(242, 193, 247, 0.5);
+  padding: 5px;
+  margin: 20px;
+  width: 300px;
+}
+.button-link a {
+color: rgb(40, 147, 166) ;
+}
+
+.button-link a:visited {
+  color: rgb(204, 57, 200)
+}
+
 .intro {
   text-align: center;
 }
@@ -46,6 +64,10 @@ h3 {
 }
 .button-contact a {
 color: rgb(40, 147, 166) ;
+}
+
+.button-contact a:visited {
+  color: rgb(204, 57, 200)
 }
 
 @media (max-width: 600px) {
